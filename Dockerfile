@@ -1,4 +1,4 @@
-FROM ghcr.io/zephyrproject-rtos/ci:v0.23.0
+FROM ghcr.io/zephyrproject-rtos/ci:v0.23.3
 
 ARG FVP_AEMV8R_VERSION=11.17_32
 ARG FVP_AEMVA_VERSION=11.17_21
